@@ -128,6 +128,7 @@
 
 	#name {
 		font-weight: bold;
+		color: var(--very-dark-grayish-blue);
 	}
 
 	@media only screen and (max-width: 820px) {
