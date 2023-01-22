@@ -24,7 +24,7 @@
 			<div id="left-side-card-footer">
 				<img id="avatar" src={avatarMichelle} alt="avatar michelle appleton" />
 				<div>
-					<p>Michelle Appleton</p>
+					<p id="name">Michelle Appleton</p>
 					<p id="date">28 Jun 2020</p>
 				</div>
 			</div>
@@ -124,6 +124,10 @@
 	}
 	#share-button-container:hover {
 		background-color: var(--desaturated-dark-blue);
+	}
+
+	#name {
+		font-weight: bold;
 	}
 
 	@media only screen and (max-width: 820px) {

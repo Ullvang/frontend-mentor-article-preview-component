@@ -24,5 +24,7 @@
 	}
 	:global(p) {
 		font-size: 13px;
+		letter-spacing: 0.12px;
+		line-height: 20px;
 	}
 </style>
