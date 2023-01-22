@@ -128,12 +128,15 @@
 
 	@media only screen and (max-width: 820px) {
 		:global(body) {
-			display: block;
+			grid-template-rows: auto 1fr;
+			padding-top: 74px;
+			box-sizing: border-box;
 		}
 		main {
 			flex-direction: column;
 			max-width: 327px;
-			margin: 74px 24px;
+			margin: 0px 24px;
+			margin-bottom: auto;
 		}
 		article {
 			padding: 36px 32px;
