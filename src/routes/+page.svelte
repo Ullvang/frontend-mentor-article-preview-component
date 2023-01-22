@@ -145,9 +145,11 @@
 		}
 		article {
 			padding: 36px 32px;
+			border-radius: 0px 0px 10px 10px;
 		}
 		img {
 			width: 100%;
+			border-radius: 10px 10px 0px 0px;
 		}
 		h1 {
 			font-size: 16px;
