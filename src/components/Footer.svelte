@@ -1,7 +1,7 @@
 <footer>
 	<p>
 		Challenge by <a
-			href="https://www.frontendmentor.io?ref=challenge"
+			href="https://www.frontendmentor.io/profile/Ullvang"
 			target="_blank"
 			rel="noreferrer">Frontend Mentor</a
 		>.
