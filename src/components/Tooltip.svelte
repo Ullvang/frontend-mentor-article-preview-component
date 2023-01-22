@@ -23,6 +23,7 @@
 		left: -114px;
 		border-radius: 10px;
 		display: flex;
+		width: 175px;
 	}
 	#tooltip:after {
 		content: '';
